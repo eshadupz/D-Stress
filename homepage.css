@@ -12,27 +12,6 @@
 }
 
 
-
-.sideBar {
-  position: fixed;
-  top: 0px;
-  bottom: 0px;
-  width: 150px;
-  right: 20px;
-  background-color: PaleVioletRed;
-  padding: 10px;
-  z-index: 10000;
-
-}
-
-.sideBarRow {
-  text-align: center;
-  padding-top: 30px;
-  padding-bottom:30px;
-  font-size: 15pt;
-  z-index: 10000;
-}
-
 In head in HTML:
 <style>
   a{
@@ -49,6 +28,7 @@ In head in HTML:
     color: Plum;
     font-family: Lucida;
     font-size: 20px;
+    padding-left:300px;
   }
 
   /* The sidebar menu */
@@ -59,7 +39,7 @@ In head in HTML:
     z-index: 10000; /* Stay on top */
     top: 0;
     left: 0;
-    background-color: #111; /* Black*/
+    background-color: PaleVioletRed; /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
@@ -70,7 +50,7 @@ In head in HTML:
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: White;
     display: block;
     transition: 0.3s;
     z-index: 10000;
@@ -78,7 +58,7 @@ In head in HTML:
 
   /* When you mouse over the navigation links, change their color */
   .sidebar a:hover {
-    color: #f1f1f1;
+    color: Plum;
     z-index: 10000;
   }
 
