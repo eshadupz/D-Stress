@@ -20,6 +20,11 @@ p {
   margin-left: 80px;
 }
 
+.iframeRow{
+  display: flex;
+  flex-direction: row;
+}
+
 /* The sidebar menu */
 .sidebar {
   height: 100%; /* 100% Full-height */
@@ -108,10 +113,5 @@ h2 {
   /* margin:auto; */
   text-align: center;
   font-size:50px;
-
 }
 
-.iframeRow{
-  display: flex;
-  flex-direction: row;
-}
