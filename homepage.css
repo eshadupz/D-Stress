@@ -49,7 +49,6 @@ In head in HTML:
     color: Plum;
     font-family: Lucida;
     font-size: 20px;
-    padding-left:200px;
   }
 
   /* The sidebar menu */
@@ -132,15 +131,17 @@ In head in HTML:
 
 #about {
   width: 1000px;
+  padding-left:300px;
 
 }
 
 #creators {
   width: 1000px;
+  padding-left:300px;
 
 }
 #dstress {
-  padding-left:350px;
+  padding-left:500px;
   padding-top: 20px;
   width: 300px;
 }
