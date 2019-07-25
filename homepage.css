@@ -39,7 +39,7 @@ In head in HTML:
     z-index: 10000; /* Stay on top */
     top: 0;
     left: 0;
-    background-color: PaleVioletRed; /* Black*/
+    background-color: PaleVioletRed;
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
@@ -121,13 +121,11 @@ In head in HTML:
 
 }
 #dstress {
-  padding-left:500px;
+  padding-left:700px;
   padding-top: 20px;
   width: 300px;
+
   
-h2 {
-  padding-left:300px;
-}
 #collage {
   width: 100%
 
