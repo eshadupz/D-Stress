@@ -13,15 +13,6 @@
 
 
 
-.sideBar {
-  position: fixed;
-  top: 0px;
-  bottom: 0px;
-  width: 150px;
-  right: 20px;
-  background-color: PaleVioletRed;
-  padding: 10px;
-  z-index: 10000;
 
 }
 
@@ -51,6 +42,12 @@ In head in HTML:
     font-size: 20px;
   }
 
+
+  .name {
+    font-size:30px;
+    
+  }
+
   /* The sidebar menu */
   .sidebar {
     height: 100%; /* 100% Full-height */
@@ -59,7 +56,7 @@ In head in HTML:
     z-index: 10000; /* Stay on top */
     top: 0;
     left: 0;
-    background-color: #111; /* Black*/
+    background-color: PaleVioletRed !important; /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
@@ -70,7 +67,7 @@ In head in HTML:
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: White;
     display: block;
     transition: 0.3s;
     z-index: 10000;
@@ -78,7 +75,7 @@ In head in HTML:
 
   /* When you mouse over the navigation links, change their color */
   .sidebar a:hover {
-    color: #f1f1f1;
+    color: Plum;
     z-index: 10000;
   }
 
@@ -87,7 +84,7 @@ In head in HTML:
     position: absolute;
     top: 0;
     right: 25px;
-    font-size: 36px;
+    font-size: Red;
     margin-left: 50px;
     z-index: 10000;
   }
@@ -96,7 +93,7 @@ In head in HTML:
   .openbtn {
     font-size: 20px;
     cursor: pointer;
-    background-color: #111;
+    background-color: PaleVioletRed !important;
     color: white;
     padding: 10px 15px;
     border: none;
@@ -123,7 +120,7 @@ In head in HTML:
 
 #namepic {
   width:145px;
-  padding-left:20px;
+  padding-left:100px;
   padding-right:20px;
 }
 
@@ -131,15 +128,17 @@ In head in HTML:
 
 #about {
   width: 1000px;
-
+padding-left:250px;
+font-size:30px;
 }
 
 #creators {
   width: 1000px;
-
+padding-left:250px;
+font-size: 30px;
 }
 #dstress {
-  padding-left:350px;
+  padding-left:550px;
   padding-top: 20px;
   width: 300px;
 }
@@ -150,4 +149,9 @@ In head in HTML:
 
 #sunset {
   width: 1445px;
+}
+
+
+h2 {
+  padding-left:180px;
 }
