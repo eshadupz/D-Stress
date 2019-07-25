@@ -124,6 +124,9 @@ In head in HTML:
   padding-left:500px;
   padding-top: 20px;
   width: 300px;
+  
+h2 {
+  padding-left:300px;
 }
 #collage {
   width: 100%
