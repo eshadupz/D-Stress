@@ -21,18 +21,7 @@ In head in HTML:
     opacity: 0.8;
 
   }
-h2 {
-  padding-top: 300px;
-  color: Tomato;
-  font-family: Lucida;
-}
 
-h3 {
-  color: Tomato;
-  font-family: Lucida;
-  font-size: 20px;
-
-}
 
   .content {
     width: 1000px;
@@ -81,12 +70,14 @@ h3 {
 h2 {
   padding-left:370px;
   color:Peru;
+  font-family:Lucida;
 }
 
 h3 {
   padding-left:270px;
   font-size:20px;
   color:SandyBrown;
+  font-family:Lucida;
 }
 
 
