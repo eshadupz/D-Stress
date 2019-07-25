@@ -67,7 +67,7 @@ In head in HTML:
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: White;
+    color: White !important;
     display: block;
     transition: 0.3s;
     z-index: 10000;
@@ -75,7 +75,7 @@ In head in HTML:
 
   /* When you mouse over the navigation links, change their color */
   .sidebar a:hover {
-    color: Plum;
+    color: Plum !important;
     z-index: 10000;
   }
 
@@ -84,7 +84,7 @@ In head in HTML:
     position: absolute;
     top: 0;
     right: 25px;
-    font-size: White;
+    font-size: White !important;
     margin-left: 50px;
     z-index: 10000;
   }
