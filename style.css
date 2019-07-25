@@ -75,7 +75,7 @@ In head in HTML:
 
   /* When you mouse over the navigation links, change their color */
   .sidebar a:hover {
-    color: Plum !important;
+    color: #C68E17;
     z-index: 10000;
   }
 
@@ -102,7 +102,7 @@ In head in HTML:
   }
 
   .openbtn:hover {
-    background-color: Plum !important;
+    background-color: #FBB117;
     z-index: 10000;
   }
 
