@@ -1,0 +1,185 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 50px;
+  margin:auto;
+  text-align:center;
+  position:relative;
+
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  text-align:center;
+}
+
+.row {
+  max-width: 4000px;
+     min-width: 300px;
+     width: 100%;
+     padding: 10px;
+     margin: auto;
+    position:relative;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+
+}
+
+.banner {
+      position: absolute;
+      height: 100%;
+      top: -20px;
+      left: 0px;
+      right: 0px;
+      text-align: center;
+      opacity: 0.8;
+
+      max-width: 100%;
+      margin: 0;
+      overflow:hidden;
+
+}
+
+
+
+}
+
+
+  .content {
+    width: 1000px;
+
+  }
+
+  .maintext {
+    padding-top: 400px;
+    color: Plum;
+    font-family: Lucida;
+    font-size: 20px;
+    text-align:center;
+    margin:auto;
+  }
+
+
+  .name {
+    font-size:30px;
+
+  }
+
+  /* The sidebar menu */
+  .sidebar {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 10000; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: PaleVioletRed !important; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+  }
+
+  /* The sidebar links */
+  .sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: White;
+    display: block;
+    transition: 0.3s;
+    z-index: 10000;
+  }
+
+  /* When you mouse over the navigation links, change their color */
+  .sidebar a:hover {
+    color: Plum;
+    z-index: 10000;
+  }
+
+  /* Position and style the close button (top right corner) */
+  .sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: White;
+    margin-left: 50px;
+    z-index: 10000;
+  }
+
+  /* The button used to open the sidebar */
+  .openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    background-color: PaleVioletRed !important;
+    color: White;
+    padding: 10px 15px;
+    border: none;
+    position: fixed;
+    z-index: 10000;
+  }
+
+  .openbtn:hover {
+    background-color: Plum !important;
+    z-index: 10000;
+  }
+
+  /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+  #main {
+    transition: margin-left .5s; /* If you want a transition effect */
+    padding: 20px;
+  }
+
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+  @media screen and (max-height: 450px) {
+    .sidebar {padding-top: 15px;}
+    .sidebar a {font-size: 18px;}
+  }
+
+#namepic {
+  width:145px;
+  padding-left:100px;
+  padding-right:20px;
+}
+
+
+
+#about {
+
+
+font-size:30px;
+}
+
+#creators {
+
+
+font-size: 30px;
+}
+#dstress {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+#collage {
+  width: 100%
+
+}
+
+
+#collageDescription {
+  padding-top:100px;
+  font-size:30px;
+}
+
+h2 {
+  text-align:center;
+}
