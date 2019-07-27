@@ -164,6 +164,7 @@ font-size:30px;
 font-size: 30px;
 }
 #dstress {
+  padding-top:500px;
   display: block;
   margin-left: auto;
   margin-right: auto;
