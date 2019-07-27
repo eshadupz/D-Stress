@@ -25,7 +25,7 @@ body {
 #title {
   font-family: inherit;
   length: 50px;
-  color: MediumSeaGreen;
+  color: ForestGreen !important;
   margin-top: 5px;
   width: 160px;
   margin: auto;
@@ -35,7 +35,7 @@ body {
 
 #link {
   text-align: center;
-  color: MediumSeaGreen;
+/*   color: MediumSeaGreen; */
   /*font-size: 20px;*/
 }
 /*green is the color for this page*/
@@ -134,7 +134,7 @@ body {
 
 #instagram {
   text-align: center;
-  color: MediumSeaGreen;
+/*   color: MediumSeaGreen; */
   font-size: 19px;
   width: 600px;
   margin: auto;
