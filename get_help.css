@@ -3,24 +3,19 @@ body {
   background-repeat: no-repeat;
   background-color: #FFFFFF;
   font-family: Lucida;
-/*   max-width: 800px;
-  min-width: 300px; */
+
   width: 100%;
   padding: 5px;
-/*   margin: auto;
-  text-align:center */
-       
-
 }
-
+/* 
 #welcome {
     margin-top: 5px;
  
-/*     margin: auto;
+    margin: auto;
 
     text-align: center;
- */
-}
+
+} */
 
 .center {
   display: block;
@@ -30,15 +25,15 @@ body {
   width: 50%;
 }
 
-#title {
+/* #title {
 
   margin-top: 5px;
   max-width:800px;
-/*   margin: auto;
+  margin: auto;
   text-align: center;
-  */
+ 
 }
-
+ */
 #link {
   text-align: center;
 /*   color: MediumSeaGreen; */
@@ -94,7 +89,7 @@ body {
     cursor: pointer;
     background-color: MediumSeaGreen !important;
     color: White;
-/*     padding: 10px 15px; */
+/*     padding: 5px 15px; */
     border: none;
     position: fixed;
     z-index: 10000;
