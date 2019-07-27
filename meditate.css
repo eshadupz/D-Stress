@@ -102,7 +102,7 @@ h4{
 
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
-  color: Peru !important;
+  color: Tomato !important;
   z-index: auto;
 }
 
@@ -128,7 +128,7 @@ h4{
 }
 
 .openbtn:hover {
-  background-color: Peru !important;
+  background-color: Tomato !important;
 }
 
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
