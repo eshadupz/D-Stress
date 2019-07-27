@@ -85,14 +85,12 @@ body {
 .openbtn {
   font-size: 20px;
   cursor: pointer;
-  background-color: #006400 !important;
-  color: white;
+  background-color: PowderBlue;
+  color: White;
   padding: 10px 15px;
   border: none;
   position: fixed;
-  margin-left: auto;
 }
-
 .openbtn:hover {
   background-color: #111 !important;
 }
