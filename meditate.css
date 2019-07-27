@@ -83,7 +83,7 @@ h4{
   z-index: 100000; /* Stay on top */
   top: 0;
   left: 0;
-  background-color: Orange; /* Black*/
+  background-color: Orange !important; /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
@@ -128,7 +128,7 @@ h4{
 }
 
 .openbtn:hover {
-  background-color: #FBB117;
+  background-color: Peru !important;
 }
 
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
