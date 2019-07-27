@@ -143,6 +143,11 @@ body {
   color: #B0E0E6; */
 }
 
+#website {
+  text-align:center;
+  margin:auto;
+}
+
 #videogames {
   max-width: 100%;
   max-height: 100%;
