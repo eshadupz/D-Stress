@@ -153,3 +153,10 @@ body {
 
 h1 {
  color:ForestGreen;
+}
+
+
+#main {
+    text-align:center;
+    margin:auto;
+  }
