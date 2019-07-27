@@ -102,7 +102,7 @@ h4{
 
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
-  color: #C68E17;
+  color: Peru !important;
   z-index: auto;
 }
 
@@ -119,7 +119,7 @@ h4{
 .openbtn {
   font-size: 20px;
   cursor: pointer;
-  background-color: Orange;
+  background-color: Orange !important;
   color: white;
   padding: 10px 15px;
   border: none;
