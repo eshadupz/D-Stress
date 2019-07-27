@@ -155,5 +155,8 @@ body {
   height: 50%;
 }
 
+iframe {
+  width:300px !important;
+}
 
 /*Make a Scratch game (maybe a clicker game) for relieving stress*/
