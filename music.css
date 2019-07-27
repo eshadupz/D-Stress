@@ -132,7 +132,7 @@ h3 {
 
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
-  color: Tomato;
+  color: #FF6347;
   z-index: 10000;
 }
 
@@ -159,7 +159,7 @@ h3 {
 }
 
 .openbtn:hover {
-  background-color: Tomato;
+  background-color: #FF6347;
   z-index: 10000;
 }
 
