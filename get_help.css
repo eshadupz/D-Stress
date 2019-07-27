@@ -143,8 +143,8 @@ body {
 #instagram {
   text-align: center;
 /*   color: MediumSeaGreen; */
-  font-size: 19px;
-  width: 600px;
+
+  max-width: 600px;
   margin: auto;
 }
 
