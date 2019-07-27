@@ -68,6 +68,9 @@
     margin:auto;
   }
 
+.container {
+  padding-top:400px;
+}
 
 /*   .name {
     font-size:30px;
@@ -162,6 +165,7 @@ font-size:30px;
 font-size: 30px;
 }
 #dstress {
+  padding-top:400px
   display: block;
   margin-left: auto;
   margin-right: auto;
