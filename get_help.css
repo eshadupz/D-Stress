@@ -152,11 +152,11 @@ body {
 }
 
 h1 {
- color:ForestGreen;
+ color:ForestGreen !important;
 }
 
 
-#main {
+/* #main {
     text-align:center;
     margin:auto;
-  }
+  } */
