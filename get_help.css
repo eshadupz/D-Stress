@@ -153,6 +153,9 @@ body {
   text-align: center;
   font-size: 21px;
 }
+#instagramicon {
+  margin:auto;
+}
 
 h1 {
   padding-top:300px;
@@ -161,11 +164,11 @@ h1 {
 }
 
 h2 {
-  color:MediumSeaGreen;
+  color:MediumSeaGreen !important;
   font-size:30px;
 }
 
 h3 {
-  color:LightGreen;
+  color:LightGreen !important;
   font-size:22px;
 }
