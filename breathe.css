@@ -124,7 +124,7 @@ h2 {
 
  h3 {
   color:LightSteelBlue;
-  text-align:center;
+  text-align:center !important;
 }
 
 
