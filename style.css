@@ -60,7 +60,7 @@
   }
 
   .maintext {
-    padding-top: 450px;
+    padding-top: 550px;
     color: Plum;
     font-family: Lucida;
     font-size: 20px;
@@ -69,10 +69,10 @@
   }
 
 
-  .name {
+/*   .name {
     font-size:30px;
 
-  }
+  } */
 
   /* The sidebar menu */
   .sidebar {
@@ -144,12 +144,12 @@
     .sidebar a {font-size: 18px;}
   }
 
-#namepic {
+/* #namepic {
   width:145px;
   padding-left:100px;
   padding-right:20px;
 }
-
+ */
 
 
 #about {
