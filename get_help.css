@@ -171,6 +171,7 @@ h1 {
 }
 
 h2 {
+  padding-top:20px;
   color:MediumSeaGreen !important;
   font-size:30px;
 margin:auto;
@@ -178,6 +179,7 @@ margin:auto;
 }
 
 h3 {
+  padding-top:30px;
   color:LightGreen !important;
   font-size:22px;
 margin:auto;
