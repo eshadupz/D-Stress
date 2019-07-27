@@ -107,14 +107,14 @@ body {
 
 .banner {
   position: absolute;
-  height: 100%;
+  height: 200%;
   top: -20px;
   left: 0px;
   right: 0px;
   text-align: center;
   opacity: 0.8;
 
-  max-width: 100%
+  max-width: 200%
   margin: 0;
   overflow:hidden;
 }
