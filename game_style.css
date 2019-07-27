@@ -77,6 +77,7 @@ h3 {
 
 h2 {
   color: DarkTurquoise ;
+  font-size:30px;
 }
 
 /*img {
@@ -102,7 +103,7 @@ body {
 .banner {
   position: absolute;
   height: 200%;
-  top: -20px;
+  top:-40px;
   left: 0px;
   right: 0px;
   text-align: center;
@@ -120,12 +121,13 @@ body {
 
 
 
-#title {
+/* #title {
   margin-top: 5px;
 /* /
   margin: auto;
-  
 }
+   */
+
 
 #title2 {
   margin-top: 5px;
