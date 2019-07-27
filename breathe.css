@@ -55,7 +55,7 @@ p {
 
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
-  color: LightSteelBlue;
+  color: LightSteelBlue !important;
 }
 
 /* Position and style the close button (top right corner) */
@@ -71,7 +71,7 @@ p {
 .openbtn {
   font-size: 20px;
   cursor: pointer;
-  background-color: PowderBlue;
+  background-color: PowderBlue !important;
   color: White;
   padding: 10px 15px;
   border: none;
@@ -79,7 +79,7 @@ p {
 }
 
 .openbtn:hover {
-  background-color: LightSteelBlue;
+  background-color: LightSteelBlue !important;
 }
 
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
