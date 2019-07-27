@@ -132,7 +132,7 @@ h3 {
 
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
-  color: Peru !important;
+  color: Tomato !important;
   z-index: 10000;
 }
 
