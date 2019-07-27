@@ -12,14 +12,14 @@ body {
 
 }
 
-/* #welcome {
+#welcome {
     margin-top: 5px;
     
     margin: auto;
-    color: MediumSeaGreen;
+
     text-align: center;
-    font-size: 23px;
-} */
+
+}
 
 .center {
   display: block;
@@ -29,15 +29,14 @@ body {
   width: 50%;
 }
 
-/* #title {
-  font-family: Lucida;
-  color: ForestGreen !important;
+#title {
+
   margin-top: 5px;
 
   margin: auto;
   text-align: center;
  
-} */
+}
 
 #link {
   text-align: center;
