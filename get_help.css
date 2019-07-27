@@ -84,16 +84,15 @@ body {
 }
 
 /* The button used to open the sidebar */
- .openbtn {
-    font-size: 20px;
-    cursor: pointer;
-    background-color: MediumSeaGreen !important;
-    color: White;
-    padding: 10px 15px;
-    border: none;
-    position: fixed;
-    z-index: 10000;
-  }
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: MediumSeaGreen !important;
+  color: White;
+  padding: 10px 15px;
+  border: none;
+  position: fixed;
+}
 
 
 .openbtn:hover {
