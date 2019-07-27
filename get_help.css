@@ -6,7 +6,7 @@ body {
   max-width: 3000px;
   min-width: 300px;
   width: 100%;
-  padding: 20px;
+  padding: 10px;
   margin: auto;
        
 
@@ -158,17 +158,19 @@ body {
 }
 
 h1 {
-  padding-top:300px;
  color:ForestGreen !important;
   font-size:50px;
+  margin:auto;
 }
 
 h2 {
   color:MediumSeaGreen !important;
   font-size:30px;
+  margin:auto;
 }
 
 h3 {
   color:LightGreen !important;
   font-size:22px;
+  margin:auto;
 }
