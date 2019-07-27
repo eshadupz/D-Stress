@@ -89,7 +89,7 @@ body {
     cursor: pointer;
     background-color: MediumSeaGreen !important;
     color: White;
-/*     padding: 5px 15px; */
+    padding: 10px 15px;
     border: none;
     position: fixed;
     z-index: 10000;
