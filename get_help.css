@@ -19,7 +19,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 80%;
 }
 
 #title {
@@ -35,7 +35,7 @@ body {
 
 #link {
   text-align: center;
-  color: #006400;
+  color: MediumSeaGreen;
   /*font-size: 20px;*/
 }
 /*green is the color for this page*/
