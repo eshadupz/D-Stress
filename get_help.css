@@ -3,6 +3,12 @@ body {
   background-repeat: no-repeat;
   background-color: #FFFFFF;
   font-family: Lucida;
+  max-width: 800;
+  min-width: 300px;
+  width: 100%;
+  padding: 10px;
+  margin: auto;
+       
 
 }
 
@@ -23,14 +29,13 @@ body {
 }
 
 #title {
-  font-family: inherit;
-  length: 50px;
+  font-family: Lucida;
   color: ForestGreen !important;
   margin-top: 5px;
-  width: 160px;
+
   margin: auto;
   text-align: center;
-  font-size: 30px;
+ 
 }
 
 #link {
@@ -87,7 +92,7 @@ body {
   cursor: pointer;
   background-color: PowderBlue;
   color: White;
-  padding: 10px 15px;
+  padding: 10px 15px !important;
   border: none;
   position: fixed;
 }
@@ -128,9 +133,7 @@ body {
   width: 100%;
   text-align: center;
 }
-/*#banner {
-  width: 1445px;
-}*/
+
 
 #instagram {
   text-align: center;
@@ -153,8 +156,3 @@ h1 {
  color:ForestGreen !important;
 }
 
-
-/* #main {
-    text-align:center;
-    margin:auto;
-  } */
