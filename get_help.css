@@ -10,7 +10,7 @@ body {
     margin-top: 5px;
     width: 410px;
     margin: auto;
-    color: #006400;
+    color: MediumSeaGreen;
     text-align: center;
     font-size: 23px;
 }
@@ -25,7 +25,7 @@ body {
 #title {
   font-family: inherit;
   length: 50px;
-  color: #006400;
+  color: MediumSeaGreen;
   margin-top: 5px;
   width: 160px;
   margin: auto;
@@ -136,7 +136,7 @@ body {
 
 #instagram {
   text-align: center;
-  color: #006400;
+  color: MediumSeaGreen;
   font-size: 19px;
   width: 410px;
   margin: auto;
