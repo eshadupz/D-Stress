@@ -66,18 +66,24 @@
 h1 {
   color: CornflowerBlue;
   font-size:50px;
+  text-align:center;
+  margin:auto;
 }
 
 h3 {
-  margin-top: 5px;
+  text-align:center;
+  margin:auto;
   width: 460px;
   margin: auto;
   color: PowderBlue;
+  
 }
 
 h2 {
   color: DarkTurquoise ;
   font-size:30px;
+  text-align:center;
+  margin:auto;
 }
 
 /*img {
