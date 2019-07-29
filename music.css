@@ -82,7 +82,7 @@
 }
 
 h2 {
-  padding-top:320px;
+  padding-top:330px;
   text-align:center;
   color:Peru;
   font-family:Lucida;
@@ -104,6 +104,7 @@ h4 {
   font-family:Lucida !important;
   font-size:20px !important;
   font-weight:normal;
+  width: 500px;
 }
 
 
