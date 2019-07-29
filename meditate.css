@@ -10,6 +10,15 @@ h2 {
 
 h3 {
   color: #E56717
+  font-size: 30px;
+}
+
+h4 {
+  font-size:22px;
+}
+
+#smalltext {
+  font-size:22px;
 }
 
 In head in HTML:
