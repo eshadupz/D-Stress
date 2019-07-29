@@ -65,7 +65,7 @@
 
 h1 {
   color: CornflowerBlue;
-  font-size:50pt;
+  font-size:50px;
   text-align:center;
   margin:auto;
 }
@@ -73,17 +73,17 @@ h1 {
 h3 {
   text-align:center;
   margin:auto;
-  width: 460px;
+  width: 550px;
   margin: auto;
   color: PowderBlue;
-  font-size:22pt;
+  font-size:20px;
   font-weight:normal;
   
 }
 
 h2 {
   color: DarkTurquoise ;
-  font-size:30pt;
+  font-size:30px;
   text-align:center;
   margin:auto;
 }
@@ -163,7 +163,7 @@ iframe {
 
 #gamerule {
 
-  font-size:18pt;
+  font-size:18px;
 
   
 }
