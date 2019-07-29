@@ -95,6 +95,7 @@ h3 {
   color:SandyBrown;
   font-family:Lucida;
   font-size:28px;
+  font-weight:normal;
 }
 
 h4 {
@@ -102,6 +103,7 @@ h4 {
   text-align:center;
   font-family:Lucida !important;
   font-size:15px !important;
+  font-weight:normal;
 }
 
 
