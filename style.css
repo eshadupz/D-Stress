@@ -156,11 +156,14 @@
 #about {
 font-size:30px;
 width:80%;
+padding-left:30px;
+padding-right:30px;
 }
 
 #creators {
 
-
+padding-left:30px;
+padding-right:30px;
 font-size: 30px;
   width:80%;
 }
