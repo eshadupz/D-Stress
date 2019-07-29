@@ -70,7 +70,7 @@ h1 {
   margin:auto;
 }
 
-#title2 {
+h3 {
   text-align:center;
   margin:auto;
   width: 460px;
@@ -161,12 +161,9 @@ iframe {
 }
 
 #gamerule {
-  color: PowderBlue;
+
   font-size:18px;
-    margin-top: 50px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 230px;
+
   
 }
 
