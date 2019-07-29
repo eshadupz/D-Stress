@@ -179,7 +179,7 @@ margin:auto;
 
 h3 {
 /*   padding-top:30px; */
-  color:LightGreen !important;
+  color:#70db70 !important;
   font-size:22px;
   margin:auto;
   text-align:center;
@@ -193,5 +193,5 @@ h3 {
 }
 
 img {
-  box-shadow: 5px 5px #53c68c:
+  box-shadow: 5px 5px #53c68c;
 }
