@@ -13,14 +13,14 @@ width:800px;
 
   margin:auto;
   color:Grey;
-  font-size:20px;
+  font-size:20pt;
   font-family:Lucida;
 }
 
 
 p {
   font-family: Lucida;
-  font-size: 20px;
+  font-size: 20pt;
 }
 
 p {
@@ -49,7 +49,7 @@ margin-top: 50px;
 .sidebar a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 25pt;
   color: White;
   display: block;
   transition: 0.3s;
@@ -65,13 +65,13 @@ margin-top: 50px;
   position: absolute;
   top: 0;
   right: 25px;
-  font-size: 36px;
+  font-size: 36pt;
   margin-left: 50px;
 }
 
 /* The button used to open the sidebar */
 .openbtn {
-  font-size: 20px;
+  font-size: 20pt;
   cursor: pointer;
   background-color: PowderBlue !important;
   color: White;
@@ -93,7 +93,7 @@ margin-top: 50px;
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
   .sidebar {padding-top: 15px;}
-  .sidebar a {font-size: 18px;}
+  .sidebar a {font-size: 18pt;}
 }
 
 
@@ -118,7 +118,7 @@ h2 {
   padding-top: 300px;
   /* margin:auto; */
   text-align: center;
-  font-size:50px;
+  font-size:50pt;
   color:PowderBlue;
 
 }
