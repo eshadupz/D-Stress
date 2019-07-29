@@ -192,11 +192,12 @@ h3 {
   font-size:24px;
   margin:auto;
   text-align:center;
-  width:45%;
+  width:60%;
 }
 
 #ptdescription {
-  width:60%;
+  font-size:24px;
   margin:auto;
   text-align:center;
+  width:60%;
 }
