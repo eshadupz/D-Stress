@@ -161,9 +161,12 @@ iframe {
 }
 
 #gamerule {
-  margin: auto;
   color: PowderBlue;
   font-size:25px;
+    margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 100px;
   
 }
 
