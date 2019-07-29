@@ -39,7 +39,7 @@ h2 {
   text-align:center;
   font-family:Lucida;
   color:orchid;
-  font-size:20pt;
+  font-size:20px;
   margin:auto;
   padding-top:19px;
   padding-bottom:30px;
@@ -83,7 +83,7 @@ button {
 textarea {
   margin-left: auto;
   margin-right: auto;
-  font-size:12pt;
+  font-size:15pt;
   font-family:Lucida;
 
  
