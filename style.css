@@ -156,15 +156,16 @@
 #about {
 font-size:30px;
 width:80%;
-padding-left:30px;
-padding-right:30px;
+
+text-align:center;
+
 }
 
 #creators {
 
-padding-left:30px;
-padding-right:30px;
+
 font-size: 30px;
+  text-align:center;
   width:80%;
 }
 #dstress {
