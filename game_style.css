@@ -60,12 +60,12 @@
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
   .sidebar {padding-top: 15px;}
-  .sidebar a {font-size: 18px;}
+  .sidebar a {font-size: 18pt;}
 }
 
 h1 {
   color: CornflowerBlue;
-  font-size:50px;
+  font-size:50pt;
   text-align:center;
   margin:auto;
 }
@@ -76,14 +76,14 @@ h3 {
   width: 460px;
   margin: auto;
   color: PowderBlue;
-  font-size:22px;
+  font-size:22pt;
   font-weight:normal;
   
 }
 
 h2 {
   color: DarkTurquoise ;
-  font-size:30px;
+  font-size:30pt;
   text-align:center;
   margin:auto;
 }
@@ -163,7 +163,7 @@ iframe {
 
 #gamerule {
 
-  font-size:18px;
+  font-size:18pt;
 
   
 }
