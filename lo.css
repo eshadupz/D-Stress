@@ -91,7 +91,7 @@ textarea {
   height: 100%; /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */
-  z-index: 1; /* Stay on top */
+  z-index: 10000; /* Stay on top */
   top: 0;
   left: 0;
   background-color: Orchid !important; /* Black*/
@@ -108,6 +108,7 @@ textarea {
   color: White !important;
   display: block;
   transition: 0.3s;
+  z-index: 10000;
 }
 
 /* When you mouse over the navigation links, change their color */
@@ -122,6 +123,7 @@ textarea {
   right: 25px;
   font-size: 36px;
   margin-left: 50px;
+  z-index: 10000;
 }
 
 /* The button used to open the sidebar */
@@ -133,6 +135,7 @@ textarea {
   padding: 10px 15px;
   border: none;
   position: fixed;
+  z-index: 10000;
 }
 
 .openbtn:hover {
