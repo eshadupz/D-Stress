@@ -103,10 +103,10 @@ h4 {
   font-family:Lucida !important;
   font-size:25px !important;
   font-weight:normal;
-          max-width: 500px;
+          max-width: 450px;
         min-width: 300px;
         width: 100%;
-        padding: 10px;
+        padding: 20px;
         margin: auto;
 
 }
