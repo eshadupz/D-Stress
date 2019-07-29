@@ -132,6 +132,7 @@ body {
   margin-right: auto;
   width: 100%;
   text-align: center;
+    box-shadow: 5px 5px #809fff;
 } 
  
 
@@ -194,8 +195,10 @@ h3 {
 
 ts {
   box-shadow: 5px 5px #53c68c;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
 }
 
-pt {
-  box-shadow: 5px 5px #809fff;
-}
