@@ -132,7 +132,7 @@ h3 {
 
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
-  color:#ffcc80!important;
+  color:Peru!important;
   z-index: 10000;
 }
 
@@ -159,7 +159,7 @@ h3 {
 }
 
 .openbtn:hover {
-  background-color: #ffcc80 !important;
+  background-color: Peru !important;
   z-index: 10000;
 }
 
