@@ -9,18 +9,22 @@ h2 {
 }
 
 h3 {
-  color: #E56717;
+  color: #E56717 !important;
   font-size: 40px;
 }
 
 h4 {
-   color: #E56717;
+   color: #E56717 !important;
   font-size:32px;
 }
 
 #smalltext {
   font-size:22px;
   
+}
+
+#quote {
+    font-size:22px;
 }
 
 In head in HTML:
