@@ -98,10 +98,10 @@ h3 {
 }
 
 #playlistname {
-  color:SandyBrown;
+  color:SandyBrown !important;
   text-align:center;
-  font-family:Lucida;
-  font-size:30px;
+  font-family:Lucida !important;
+  font-size:30px !important;
 }
 
 
