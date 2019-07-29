@@ -41,8 +41,9 @@ h2 {
   color:orchid;
   font-size:20px;
   margin:auto;
+  padding-top:22px;
 }
-f
+
 
 }/* The sidebar menu */
 .sidebar {
@@ -52,7 +53,7 @@ f
   z-index: 1; /* Stay on top */
   top: 0;
   left: 0;
-  background-color: Orchid !important; /* Black*/
+ background-color:Orchid !important;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
@@ -136,17 +137,13 @@ button {
 
 
 textarea {
- 
+ padding-top:40px;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
  
 }
 
-}
-
-h1 {
-  padding-bottom:150px;
 }
 
 
