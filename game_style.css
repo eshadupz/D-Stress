@@ -161,7 +161,10 @@ iframe {
 }
 
 #gamerule {
-  font-size:20px;
+  margin: auto;
+  color: PowderBlue;
+  font-size:25px;
+  
 }
 
 /*Make a Scratch game (maybe a clicker game) for relieving stress*/
