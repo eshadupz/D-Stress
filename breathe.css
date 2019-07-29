@@ -57,7 +57,7 @@ margin-top: 50px;
 
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
-  color: LightSteelBlue;
+  color: LightSteelBlue !important;
 }
 
 /* Position and style the close button (top right corner) */
