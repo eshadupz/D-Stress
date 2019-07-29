@@ -29,7 +29,7 @@ h2 {
   text-align:center;
   font-family:Lucida;
   color:darkorchid;
-  font-size: 50px;
+  font-size: 50pt;
   margin:auto;
 }
 
@@ -39,7 +39,7 @@ h2 {
   text-align:center;
   font-family:Lucida;
   color:orchid;
-  font-size:20px;
+  font-size:20pt;
   margin:auto;
   padding-top:22px;
   padding-bottom:30px;
@@ -75,7 +75,7 @@ button {
     color: white;
     padding: 15px 25px;
     text-align: center;
-    font-size: 16px;
+    font-size: 16pt;
 /*     cursor: pointer; */
   }
 
