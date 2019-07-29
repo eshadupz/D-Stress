@@ -178,6 +178,14 @@ font-size: 30px;
 
 }
 
+.row {
+  
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  flex-wrap: wrap;
+}
+
 
 #collageDescription {
   padding-top:100px;
