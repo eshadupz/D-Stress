@@ -141,8 +141,16 @@ body {
   margin-top: 5px;
   width: 410px;
   margin: auto;
+  text-weight:normal;
 /*   font-size: 23px;
   color: #B0E0E6; */
+}
+
+#title3 {
+  margin-top: 5px;
+  width: 500px;
+  margin: auto;
+  text-weight:normal;
 }
 
 #website {
