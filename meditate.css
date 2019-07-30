@@ -27,12 +27,6 @@ h4 {
     font-size:25px;
 }
 
-In head in HTML:
-<style>
-    a{
-      text-decoration:none;
-    }
-    </style>
 
 .centered_video {
     width: 560px; /* you have to have a size or this method doesn't work */
