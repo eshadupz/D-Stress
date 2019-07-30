@@ -196,17 +196,25 @@ h3 {
 }
 
 #ptdescription {
-  font-size:24px;
+    font-size:24px;
   margin:auto;
   text-align:center;
-  padding:80px;
+  width:60%;
+/*   font-size:24px;
+  margin:auto;
+  text-align:center;
+  padding:80px; */
 
 }
 
 #psychologydesc {
-  font-size:24px;
+    font-size:24px;
   margin:auto;
   text-align:center;
-  padding:80px;
+  width:60%;
+/*   font-size:24px;
+  margin:auto;
+  text-align:center;
+  padding:80px; */
 
 }
