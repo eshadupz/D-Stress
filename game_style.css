@@ -68,7 +68,7 @@ h1 {
   font-size:50px;
   text-align:center;
   margin:auto;
-  padding-top:90px;
+
 }
 
 h3 {
@@ -137,7 +137,9 @@ body {
 }
    */
 
-
+#gamestitle {
+  padding-top:80px;
+}
 #title2 {
   margin-top: 5px;
   width: 410px;
