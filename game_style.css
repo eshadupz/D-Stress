@@ -169,7 +169,8 @@ body {
 }
 
 iframe {
-  width:600px !important;
+  max-width:600px;
+  min-width:180px;
 }
 
 #gamerule {
