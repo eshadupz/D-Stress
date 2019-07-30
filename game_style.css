@@ -1,6 +1,6 @@
 /* The sidebar menu */
 .sidebar {
-  height: 400px; /* 100% Full-height */
+  height: 100%; /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */
   z-index: 1; /* Stay on top */
@@ -110,7 +110,7 @@ body {
 
 .banner {
   position: absolute;
-  height: 200%;
+  height: 400px;
   top:-40px;
   left: 0px;
   right: 0px;
