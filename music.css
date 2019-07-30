@@ -99,15 +99,22 @@ h3 {
 }
 
 h4 {
-  color:SandyBrown !important;
+  text-align:center;
+  font-size:20px;
+  color:SandyBrown;
+  font-family:Lucida;
+  font-size:22px;
+  font-weight:normal;
+  
+/*   color:SandyBrown !important;
   font-family:Lucida !important;
   font-size:25px !important;
   font-weight:normal;
-          max-width: 450px;
-        min-width: 300px;
-        width: 100%;
-        padding: 20px;
-        margin: auto;
+  max-width: 450px;
+  min-width: 300px;
+  width: 100%;
+  padding: 20px;
+  margin: auto; */
 
 }
 
