@@ -53,17 +53,17 @@ h4 {
 }
 
 .banner {
-  position: absolute;
-  left: 0px;
-  right: 0px;
-  height: 400px;
-  top: -20px;
-  text-align: left;
-  opacity:0.8;
+      position: absolute;
+      height: 400px;
+      top: -20px;
+      left: 0px;
+      right: 0px;
+      text-align: center;
+      opacity: 0.8;
 
-  max-width: 100%;
-  margin:0;
-  overflow: hidden;
+      max-width: 100%;
+      margin: 0;
+      overflow:hidden;
 
 }
 
